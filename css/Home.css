@@ -107,38 +107,12 @@ body{
 
 .textoh{
     text-align: justify;
-    max-width: 800px;
     font-size: 22px;
     padding-left: 80px;
     padding-right: 80px;
     padding-top: 20px;
   
 }
-.textoh1{
-    text-align: justify;
-    max-width: 800px;
-    font-size: 22px;
-    padding-left: 80px;
-    padding-right: 80px;
-    padding-top: 20px;
-}
-.textoh2{
-    text-align: left;
-    font-size: 22px;
-    padding-left: 80px;
-    padding-right: 80px;
-    padding-top: 20px;
-  
-}
-.textoh3{
-    text-align: left;
-    font-size: 22px;
-    padding-left: 80px;
-    padding-right: 80px;
-    padding-top: 20px;
-  
-}
-
 .imagem {
     float: left;
     margin: 0;
@@ -148,7 +122,7 @@ body{
     margin: 0;
     padding: 25px;
   
-}
+}          
 .textopm{
     font-size: 22px;
     padding: 15px; 

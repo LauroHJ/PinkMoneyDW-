@@ -223,5 +223,21 @@ header::after {
         cursor: pointer;
         
     }
+    .formulario{
 
+        margin-left: 50px;
+    
+    }
+    .padrao {
+        display:block;
+        margin: 0 0 20px 0;
+        padding: 10px 25px;
+        width: 50%;
+    }
+    
+    form label {
+        display: block;
+        font-size: 20px;
+        margin: 0 10x;
+    }
 }
