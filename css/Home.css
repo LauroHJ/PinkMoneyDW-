@@ -99,9 +99,16 @@ body{
 }
 .h3{
     font-weight: bold;
-    font-size: 28px;    
-    margin-top: 120px;
-    padding-left: 80px;
+    font-size: 24px;    
+    margin-top: 50px;
+    padding-left: 120px;
+    padding-right: 80px;
+}
+.h4{
+    font-weight: bold;
+    font-size: 24px;    
+    margin-top: 80px;
+    padding-left: 120px;
     padding-right: 80px;
 }
 
@@ -109,6 +116,14 @@ body{
     text-align: justify;
     font-size: 22px;
     padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 20px;
+  
+}
+.textoh1{
+    text-align: justify;
+    font-size: 22px;
+    padding-left: 120px;
     padding-right: 80px;
     padding-top: 20px;
   
@@ -136,8 +151,23 @@ body{
     position: relative;
     bottom:0;
     width: 100%;
-    height: 25px;
+    height: 85px;
     left: 0;
+}
+.h5{
+    padding-top: 35px;
+    padding-right: 80px;
+
+
+
+}
+.imgRodape{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 65px;
+    width: auto;
+    float: left;
+    padding-left: 40px;
 }
 
 
@@ -200,6 +230,20 @@ body{
         padding-left: 20px;
         padding-right: 20px;
     }
+    .h3{
+        font-weight: bold;
+        font-size: 24px;    
+        margin-top: 50px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .h4{
+        font-weight: bold;
+        font-size: 24px;    
+        margin-top: 80px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
 
     .imagem {
         float: left;
@@ -209,7 +253,7 @@ body{
     }
 
     .imagem2{
-        width:436px; 
+        width: 380px; 
         height: auto;
 
     }
@@ -227,7 +271,16 @@ body{
 
     .textoh {
         font-size: 20px;
-        text-align: left;
+        text-align: justify;
+        
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 20px;
+    }
+
+    .textoh1{
+        font-size: 20px;
+        text-align: justify;
         
         padding-left: 20px;
         padding-right: 20px;
@@ -242,7 +295,29 @@ body{
         position: relative;
         bottom:0;
         width: 100%;
-        height: 35px;
+        height: 45px;
         left: 0;
     }
+    .h5{
+        font-size: 12px;
+        padding-top: 15px;
+        padding-right: 50px;
+    
+    
+    
+    }
+    .imgRodape{
+        padding-top: 3px;
+        padding-bottom: 3px;
+        height: 32px;
+        width: auto;
+        float: left;
+        padding-left: 20px;
+    }
+
+
+
+
+
+
 }

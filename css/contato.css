@@ -153,10 +153,25 @@ header::after {
     position: absolute;
     bottom:0;
     width: 100%;
-    height: 25px;
+    height: 85px;
     left: 0;
 }
 
+.h5{
+    padding-top: 35px;
+    padding-right: 80px;
+
+
+
+}
+.imgRodape{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 65px;
+    width: auto;
+    float: left;
+    padding-left: 40px;
+}
 @media (max-width: 768px) {
     .cabecalho{
         box-shadow: 5px 25px 25px rgb(0 0 0 / 15%);
@@ -231,7 +246,7 @@ header::after {
     .padrao {
         display:block;
         margin: 0 0 20px 0;
-        padding: 10px 25px;
+        padding: 8px 25px;
         width: 50%;
     }
     
@@ -240,4 +255,35 @@ header::after {
         font-size: 20px;
         margin: 0 10x;
     }
+
+    .rodape {
+        font-family: arial, helvetica, sans-serif;
+        background-color: #292C2F;
+        color: white;
+        text-align: center;
+        position: absolute;
+        bottom:0;
+        width: 100%;
+        height: 45px;
+        left: 0;
+    }
+
+    .h5{
+        font-size: 12px;
+        padding-top: 15px;
+        padding-right: 50px;
+    
+    
+    
+    }
+    .imgRodape{
+        padding-top: 3px;
+        padding-bottom: 3px;
+        height: 32px;
+        width: auto;
+        float: left;
+        padding-left: 20px;
+    }
 }
+
+
